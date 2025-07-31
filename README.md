@@ -47,7 +47,7 @@ Welcome to **RescueNet**, a powerful and user-friendly web application to manage
 |----------------------|-------------|
 | ![Volunteer](https://github.com/user-attachments/assets/b4ec05b1-8b01-44ae-a0b5-f7fd0c8f8ebf) | ![Admin](https://github.com/user-attachments/assets/c1af74b5-cf9a-4a72-a9f1-080eeabbf6e4) |
 
-> ℹ️ *If images don't load above, ensure they're properly hosted or uploaded to your GitHub repo under `/assets` or use raw image links.*
+> 
 
 ---
 
